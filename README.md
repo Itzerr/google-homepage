@@ -1,1 +1,1 @@
-Its my first web project while doing The Odin Project.
+Its my first web project while doing The Odin Project. 
